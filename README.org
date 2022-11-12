@@ -1,0 +1,75 @@
+#+title: The Life and Miracles of St. Philomena, 21st Century Edition
+
+* Project goal
+
+The goal of this project is to re-typeset and republish the 1865
+English version of
+/The Life and Miracles of St. Philomena, Virgin and Martyr/.
+Modifications to the original text shall be minimal or none, with
+exception for corrections.  The ultimate goal of this project is to
+prepare this book to travel into the next century or two, to foster
+devotion to the dear saint for the greater glory of God.
+
+* What is this?
+
+This book describes the story of St. Philomena, a previously unknown
+virgin-martyr, and documents miracles performed through her
+intercession.  Because the book is from the 1800s (and the body of the
+martyr was first discovered in 1802), this book is a primary source of
+information on St. Philomena and is worth preserving for that reason
+alone.
+
+* Why?
+
+There is something mysterious and beautiful about St. Philomena which
+continues to captivate contemporary audiences.  Her story straddles
+the boundary of reality and fantasy.  However, it as received
+extensive ecclesiastic approval, so some level of effort clearly went
+into verifying the fantastic miracles described.  This book is worth
+preserving because these seemingly fantastic stories leave a sharp
+tangy taste on our post-modern intellects, which do not like to accept
+as fact things we cannot explain.  The stories remind us, through the
+gentle nudges of the saint, that there is more to creation than just
+material; there is spirit driving everything.
+
+Today, St. Philomena’s name is almost unspoken outside of
+traditionalist Catholic circles, yet she continues to work miracles
+for her devotees.  My hope is to spread devotion to her so that she
+can continue to help save souls and to work miracles for the greater
+glory of God.
+
+* Directory
+
++ orig :: contains a PDF scan of the original book, courtesy of
+  Library of Congress, Bertram Smith, and [[https://archive.org/details/lifemiraclesofsa00newy][archive.org]]
++ org :: Emacs org-mode transcriptions of the book’s text (source
+  format for later formatting)
+
+* Eventual output formats
+
+The final decisions are in the air at the moment, but it would be nice
+to have:
+
+1. Printed books we can distribute, with the Postscript and/or PDF
+   published online.
+2. HTML copy on the web
+3. EPUB?  (For mobile readers)
+4. Plain text (of course)
+
+Other things to consider:
+
++ Appendix with a quick reference of devotions?
+
+* Project status
+
++ [-] Carefully transcribe the original text (Intro and ch 1-5 done).
+  Org mode is the format.
++ [ ] Decide on typesetting path to take: probably TeX/LaTeX
++ [ ] Create a print-friendly format
++ [ ] Create a web-friendly format
++ [ ] Create a mobile-friendly format (so you can take your devotions with you)
+
+* License
+
+Copyright on the original book has expired and is public domain.
+Copyright and license on this version is TBD.
