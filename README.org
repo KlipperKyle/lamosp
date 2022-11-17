@@ -23,14 +23,14 @@ alone.
 
 There is something mysterious and beautiful about St. Philomena which
 continues to captivate contemporary audiences.  Her story straddles
-the boundary of reality and fantasy.  However, it as received
+the boundary of reality and fantasy.  However, it has received
 extensive ecclesiastic approval, so some level of effort clearly went
-into verifying the fantastic miracles described.  This book is worth
-preserving because these seemingly fantastic stories leave a sharp
-tangy taste on our post-modern intellects, which do not like to accept
-as fact things we cannot explain.  The stories remind us, through the
-gentle nudges of the saint, that there is more to creation than just
-material; there is spirit driving everything.
+into verifying the fantastic miracles described.  These seemingly
+fantastic stories leave a sharp tangy taste on our post-modern
+intellects, which do not like to accept as facts things we cannot
+explain.  The stories remind us, through the gentle nudges of the
+saint, that there is more to creation than just material; there is
+spirit driving everything.
 
 Today, St. Philomena’s name is almost unspoken outside of
 traditionalist Catholic circles, yet she continues to work miracles
@@ -62,7 +62,7 @@ Other things to consider:
 
 * Project status
 
-+ [-] Carefully transcribe the original text (Intro and ch 1-5 done).
++ [-] Carefully transcribe the original text (Intro and ch 1-6 done).
   Org mode is the format.
 + [ ] Decide on typesetting path to take: probably TeX/LaTeX
 + [ ] Create a print-friendly format
