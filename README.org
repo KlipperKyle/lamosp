@@ -62,7 +62,7 @@ Other things to consider:
 
 * Project status
 
-+ [-] Carefully transcribe the original text (Intro and ch 1-6 done).
++ [-] Carefully transcribe the original text (Intro and ch 1-7 done).
   Org mode is the format.
 + [ ] Decide on typesetting path to take: probably TeX/LaTeX
 + [ ] Create a print-friendly format
