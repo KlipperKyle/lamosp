@@ -10,3 +10,4 @@
 #+include: 05.org
 #+include: 06.org
 #+include: 07.org
+#+include: 08-another-novena.org
