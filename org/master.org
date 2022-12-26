@@ -11,3 +11,5 @@
 #+include: 06.org
 #+include: 07.org
 #+include: 08-another-novena.org
+#+include: 09-prayers.org
+#+include: 10-litany.org
