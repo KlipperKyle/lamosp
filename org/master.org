@@ -1,5 +1,6 @@
 #+title: The Life and Miracles of Saint Philomena
 #+author: Unknown
+#+options: ^:{} num:nil
 
 #+include: 00-c-front-matter.org
 #+include: 00-i-introduction.org

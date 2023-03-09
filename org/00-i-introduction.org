@@ -1,10 +1,8 @@
-#+begin_center
-The\\
-Life and Miracles\\
-of\\
-Saint Philomena,\\
-Virgin and Martyr.
-#+end_center
+# Fancy typeface needed.
+
+* The Life and Miracles of Saint Philomena, Virgin and Martyr.
+
+----------------------------------------------------------------------
 
 * Introduction
 
