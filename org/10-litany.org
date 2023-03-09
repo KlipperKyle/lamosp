@@ -7,7 +7,7 @@ Lord, have mercy on us.
 Christ, hear us.
 Christ, graciously hear us.
 God the Father, of heaven, have mercy on us.
-God the Son, Redeemer of the world, have mercy on us
+God the Son, Redeemer of the world, have mercy on us.
 God the Holy Ghost, have mercy on us.
 Holy Trinity, have mercy on us.
 Holy Mary, Queen of Martyrs,[fn:1]
@@ -23,14 +23,14 @@ St. Philomena, whom God intrusted to the guardianship of angels, and who, by the
 St. Philomena, whose glory God has been pleased to manifest by continual miracles,
 St. Philomena, who sufferedst many kinds of martyrdom in the various torments thou hadst to endure,
 St. Philomena, whose example attracted many to the faith,
-St. Philomena, who, like Juses, wast bound to a pillar and scourged,
+St. Philomena, who, like Jesus, wast bound to a pillar and scourged,
 St. Philomena, perfect model of Christian virgins,
 St. Philomena, who protectest in a particular manner those who honor thee,
 St. Philomena, whom the church honors and reveres as an illustrious virgin and martyr of Jesus Christ,
 St. Philomena, who enjoyest a neverending glory,
 Lamb of God, who bearest away the sins of the world, forgive us, O Lord.
 Lamb of God, who bearest away the sins of the world, graciously hear us, O Lord.
-Lamb of God, who bearest away the sins of the world, have mercy on us. O Lord.
+Lamb of God, who bearest away the sins of the world, have mercy on us, O Lord.
 #+end_verse
 
 ** Prayer.
@@ -46,6 +46,8 @@ which he has marked out, to the end that we may one day partake of thy
 everlasting happiness, through our Lord Jesus Christ, who, with the
 Father and the Holy Ghost, liveth and reigneth one God, in perfect
 Trinity, for ever and ever.  Amen.
+
+** The End.
 
 * Footnotes
 
