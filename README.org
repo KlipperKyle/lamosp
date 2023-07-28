@@ -22,21 +22,22 @@ alone.
 * Why?
 
 There is something mysterious and beautiful about St. Philomena which
-continues to captivate contemporary audiences.  Her story straddles
-the boundary of reality and fantasy.  However, it has received
-extensive ecclesiastic approval, so some level of effort clearly went
-into verifying the fantastic miracles described.  These seemingly
-fantastic stories leave a sharp tangy taste on our post-modern
-intellects, which do not like to accept as facts things we cannot
-explain.  The stories remind us, through the gentle nudges of the
-saint, that there is more to creation than just material; there is
-spirit driving everything.
+captivates contemporary audiences.  Her story straddles the boundary
+of reality and fantasy.  Yet at the same time, it has received
+extensive ecclesiastic approval, so a great deal of effort was spent
+verifying the fantastic miracles described.  These fantastic miracles
+baffle our prideful post-modern intellects, which do not like to
+accept mysteries as facts.  The stories remind us, through the gentle
+nudges of the saint, that the universe cannot be reduced to a
+collection of mathematical formulae.  There are spirits driving
+everything, and God’s fingerprints are everywhere.  (Checkmate,
+atheists!)
 
-Today, St. Philomena’s name is almost unspoken outside of
-traditionalist Catholic circles, yet she continues to work miracles
-for her devotees.  My hope is to spread devotion to her so that she
-can continue to help save souls and to work miracles for the greater
-glory of God.
+Today, St. Philomena’s name is rarely spoken outside of rad-trad
+Catholic circles, yet she continues to work miracles for those who are
+devoted to her.  My hope is to spread devotion to her so that she can
+continue to help save souls and to work miracles for the greater glory
+of God.
 
 * Directory
 
@@ -54,7 +55,7 @@ to have:
    published online.
 2. HTML copy on the web
 3. EPUB?  (For mobile readers)
-4. Plain text (of course)
+4. Plain text (least common denominator)
 
 Other things to consider:
 
@@ -62,8 +63,9 @@ Other things to consider:
 
 * Project status
 
-+ [-] Carefully transcribe the original text (Intro and ch 1-9 done).
++ [X] Carefully transcribe the original text (Intro and ch 1-9 done).
   Org mode is the format.
++ [ ] Decide on a license
 + [ ] Decide on typesetting path to take: probably TeX/LaTeX
 + [ ] Create a print-friendly format
 + [ ] Create a web-friendly format
