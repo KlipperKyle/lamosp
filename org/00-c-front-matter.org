@@ -22,11 +22,14 @@ New York:\\
 P. O’Shea, Publisher,\\
 104 Bleecker Street.\\
 1865.\\
+
+Scanned by the US Library of Congress and distributed by Archive.org.
 https://archive.org/details/lifemiraclesofsa00newy
 
-Faithfully re-typeset by:\\
+Digitized and republished:\\
 Kyle Terrien\\
-Soldier of Christ with a keyboard and Internet access
+Friend of St. Philomena\\
+2023.
 #+end_center
 
 * Approbation.
@@ -35,7 +38,7 @@ The present work being extracted from larger works, printed in Italy
 with the approbation of the ecclesiastical authority, and having been
 examined by theologians worthy of our confidence, we permit the
 printing and circulation of it in our diocess, referring, however, on
-this matter, to teh declarations of the author, and especially to the
+this matter, to the declarations of the author, and especially to the
 decree of Urban VIII.  We believe, moreover, after the example of many
 of our colleagues in the episcopacy, that we second the designs of
 Divine Providence, by recommending to the faithful of our diocess the
@@ -60,7 +63,8 @@ devotion have been truly miraculous.
 
 The present reprint is from an authorized Dublin edition; we had hoped
 to have the holy privilege of translating the life of this youthful
-saint, but we found other had anticipated us in the pious undertaking.
+saint, but we found others had anticipated us in the pious
+undertaking.
 
 The extraordinary devotion of one of the most celebrated personages of
 modern times---the Curé d’Ars---to this saint, lends a new and holy
@@ -92,7 +96,7 @@ We trust this little volume will serve to enkindle a tender devotion
 to the saint in many a young heart.  At the early age of thirteen
 years, this true heroine trampled all the vanities of the world under
 her feet, and chose to endure multiplied torments rather than renounce
-her vow to her crucified Savior.  What a model of constancy and of
+her vow to her crucified Saviour.  What a model of constancy and of
 every virtue does she present to us!  Let the youthful heart go to her
 when tried, and with unbounded confidence implore her intercession!
 
