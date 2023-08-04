@@ -1,4 +1,4 @@
-#+title: The Life and Miracles of St. Philomena, 21st Century Edition
+#+title: The Life and Miracles of St. Philomena, 2023 Edition
 
 * Project goal
 
@@ -14,12 +14,14 @@ devotion to the dear saint for the greater glory of God.
 
 This book describes the story of St. Philomena, a previously unknown
 virgin-martyr, and documents miracles performed through her
-intercession.  Because the book is from the 1800s (and the body of the
-martyr was first discovered in 1802), this book is a primary source of
-information on St. Philomena and is worth preserving for that reason
-alone.
+intercession.
 
 * Why?
+
+Because the book is from the 1800s (and the body of the martyr was
+first discovered in 1802), this book is a primary source of
+information on St. Philomena and is worth preserving for that reason
+alone.
 
 There is something mysterious and beautiful about St. Philomena which
 captivates contemporary audiences.  Her story straddles the boundary
@@ -38,6 +40,12 @@ Catholic circles, yet she continues to work miracles for those who are
 devoted to her.  My hope is to spread devotion to her so that she can
 continue to help save souls and to work miracles for the greater glory
 of God.
+
+The copyleft CC-BY-SA license was chosen to limit the amount of damage
+modern copyright law can do to the dissemination of the book.  I wish
+this book to be distributed in a free (as in freedom) manner.  The
+copyleft paradigm allows you the reader to become a publisher as long
+as you distribute copies under the same CC-BY-SA license.
 
 * Directory
 
@@ -65,7 +73,7 @@ Other things to consider:
 
 + [X] Carefully transcribe the original text (Intro and ch 1-9 done).
   Org mode is the format.
-+ [ ] Decide on a license
++ [X] Decide on a license
 + [ ] Decide on typesetting path to take: probably TeX/LaTeX
 + [ ] Create a print-friendly format
 + [ ] Create a web-friendly format
@@ -73,5 +81,16 @@ Other things to consider:
 
 * License
 
-Copyright on the original book has expired and is public domain.
-Copyright and license on this version is TBD.
+The original /The Life and Miracles of St. Philomena/ © 1865
+P. O’Shea, Publisher.  The copyright has since expired, and the work
+is in the public domain.
+
+/The Life and Miracles of St. Philomena, 2023 Edition/ © 2023 Kyle
+Terrien and contributors.
+
+/The Life and Miracles of St. Philomena, 2023 Edition/ is licensed
+under a Creative Commons Attribution-ShareAlike 4.0 International
+License.
+
+You should have received a copy of the license along with this work.
+If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
